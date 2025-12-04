@@ -58,7 +58,8 @@ Commandline Source: https://developer.hashicorp.com/terraform/tutorials/aws-get-
 
 
 <img width="975" height="256" alt="image" src="https://github.com/user-attachments/assets/a2da1933-aee8-4a04-9b82-e0006093b3eb" />
-EC2 Instance successfully 
+
+EC2 Instance successfully launched 
 
 
 
