@@ -1,4 +1,7 @@
-# Sample Steps: Provisioning an EC2 instance with Terraform
+# Terraform Project: Provisioning an EC2 instance with Terraform
+
+Disclaimer © Ebubechukwu Azozie
+All README content, documentation, and screenshot images in this GitHub repository are original work created by me, Ebubechukwu Azozie. Unauthorized copying or reuse without proper attribution is not permitted.
 
 ## Resources used 
 - AWS CLI Toolkit
